@@ -139,4 +139,22 @@ const aPers = people.find((person) => person.age === 20);
 console.log(aPers);
 */
 
+/*
 //reduce
+const totalAge = people.reduce((acc, curr) => {
+    acc += curr.age;
+    return acc;
+}, 0)
+
+console.log(totalAge)
+*/
+
+/*
+//Date 
+const date = new Date('1/10/2022');
+
+console.log(date.getFullYear())
+document.body.innerHTML = date.getFullYear()
+
+*/
+
