@@ -90,8 +90,11 @@ sayHello('This');
 */
 
 //includes
-console.log(nums.includes(0))
+//console.log(nums.includes(0))
 //import (data) from './example.js';
 
 //Stopped at 43:37
 
+import { Animal } from './animal.js'
+
+console.log(data)
