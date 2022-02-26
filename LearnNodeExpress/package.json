@@ -1,0 +1,14 @@
+{
+  "name": "learnnodeexpress",
+  "version": "1.0.0",
+  "description": "Basic for learning backend development using nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raphael",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
